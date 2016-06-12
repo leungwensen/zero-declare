@@ -7,8 +7,6 @@ module.exports = {
     'spec/index': path.resolve(__dirname, './spec/index.spec.js')
   },
   output: {
-    libraryTarget: 'var',
-    library: 'zeroLang',
     path: path.resolve(__dirname),
     publicPath: '/',
     filename: '[name].js'
