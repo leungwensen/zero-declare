@@ -3,14 +3,14 @@
   "title": "zero-declare",
   "description": "C3MRO-based OOP solution for javascript",
   "homepage": "https://github.com/leungwensen/zero-declare",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "lib/index.js",
   "author": "leungwensen",
   "bugs": {
     "url": "https://github.com/leungwensen/zero-declare/issues"
   },
   "dependencies": {
-    "zero-lang": "^0.1.0"
+    "zero-lang": "^0.1.2"
   },
   "devDependencies": {
     "babel-cli": "^6.7.7",
